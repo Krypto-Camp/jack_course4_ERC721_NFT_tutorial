@@ -54,7 +54,7 @@
 
 ![Untitled](./Picture/erc721_source.png)
 
-```json
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.2;
 
